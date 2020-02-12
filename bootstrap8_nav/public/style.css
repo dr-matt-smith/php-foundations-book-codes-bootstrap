@@ -1,0 +1,7 @@
+nav {
+     background-color: black;
+ }
+
+nav .sitename {
+    margin-left: 0.1rem
+}
